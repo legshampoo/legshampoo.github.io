@@ -1,1 +1,1 @@
-hello index
+docs/index
