@@ -1,0 +1,1 @@
+this is the guide for launchpad-contract
